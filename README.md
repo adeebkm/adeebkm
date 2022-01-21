@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate with **other content creators**
 
-- 🥅 2021 Goals: **Learn and Contribute to Open Source projects**
+- 🥅 2022 Goals: **Learn and Contribute to Open Source projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
