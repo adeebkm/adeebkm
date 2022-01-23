@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Adeeb</h1>
-<h3 align="center">I'm an information science undergraduate at Ramaiah Institute of Technology, Bangalore.</h3>
+<h3 align="center">I'm an Information Science undergraduate at Ramaiah Institute of Technology, Bangalore.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adeebkm&label=Profile%20views&color=0e75b6&style=flat" alt="adeebkm" /> </p>
 
